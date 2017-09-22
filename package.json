@@ -1,0 +1,26 @@
+{
+  "name": "javascript-entertainment-system",
+  "version": "0.1.0",
+  "description": "An 8-bit game engine designed with similar constraints as the Nintendo Entertainment System, but built with Javascript.",
+  "main": "bin/jes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Renddslow@github.com/Renddslow/javascript-entertainment-system.git"
+  },
+  "keywords": [
+    "games",
+    "8-bit",
+    "game",
+    "engine",
+    "nintendo"
+  ],
+  "author": "renddslow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Renddslow/javascript-entertainment-system/issues"
+  },
+  "homepage": "https://github.com/Renddslow/javascript-entertainment-system#readme"
+}
